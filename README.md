@@ -1,5 +1,5 @@
-Integrative Final Course project  
+Integrative Final Course project
 Lecturer: Eyal
-Students: Oriel(Team Leader),Ahmad,Lior,Maayan,Avichay,Moshe
-Subject: find love & matching 
-Tech: Reactive MongoDb,Java,Webflux
+Students: Oriel, Ahmad,Lior, Maayan, Avichai, Moshe
+Subject: find love & matching
+Tech: Reactive MongoDB, Java, Webflux
